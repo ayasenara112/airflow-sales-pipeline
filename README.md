@@ -27,8 +27,6 @@ Extract → Transform → Visualize
 - Daily revenue dataset (CSV)
 - Time series revenue plot
 
-## Repository
-[Add your GitHub link here]
 
 ## Next Steps
 - Store results directly in a database instead of CSV
